@@ -3,7 +3,7 @@
 policies:
   - uid: mondoo-movetheneedle-demo
     name: Mondoo Move the Needle Demo
-    version: 1.0
+    version: 1
     license: BUSL-1.1
     tags:
       mondoo.com/category: demo
